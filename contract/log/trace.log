@@ -1,0 +1,744 @@
+14:13:13 - [32minfo[39m: Using current directory as template folder
+14:13:13 - [32minfo[39m: Loading a default text/sample.md file.
+14:13:13 - [34mdebug[39m: loadFileContents
+14:13:13 - [34mdebug[39m: loadFileBuffer
+14:13:13 - [34mdebug[39m: loadFileContents
+14:13:13 - [34mdebug[39m: loadFileContents
+14:13:13 - [34mdebug[39m: fromDirectory
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFileContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: fromDirectory
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFileContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:13 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: fromDirectory
+14:13:14 - [34mdebug[39m: loadFileContents
+14:13:14 - [34mdebug[39m: fromDirectory
+14:13:14 - [34mdebug[39m: fromDirectory
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFileContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:14 - [34mdebug[39m: loadFilesContents
+14:13:16 - [34mdebug[39m: Setting clause data: {"$class":"org.me.dlfpayment.MyContract","name":"Dan","contractId":"b646ec00-6fec-4e8e-af22-f5d9829c465b"}
+14:13:16 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.me.dlfpayment.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mname[39m[33m"[39m[33m: [39m[33m"[39m[35mDan[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mb646ec00-6fec-4e8e-af22-f5d9829c465b[39m[33m"[39m
+[33m}[39m
+14:15:33 - [32minfo[39m: Using current directory as template folder
+14:15:33 - [32minfo[39m: Loading a default text/sample.md file.
+14:15:33 - [32minfo[39m: Loading a default request.json file.
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: loadFileBuffer
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: fromDirectory
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: fromDirectory
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: loadFileContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:33 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: fromDirectory
+14:15:36 - [34mdebug[39m: loadFileContents
+14:15:36 - [34mdebug[39m: fromDirectory
+14:15:36 - [34mdebug[39m: fromDirectory
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFileContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:36 - [34mdebug[39m: loadFilesContents
+14:15:38 - [34mdebug[39m: Setting clause data: {"$class":"org.me.dlfpayment.MyContract","name":"Dan","contractId":"fc2b05b1-0307-444e-850d-26b69bf9ef4b"}
+14:15:38 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+14:15:38 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+14:15:38 - [34mdebug[39m: Engine processing request org.me.dlfpayment.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+14:15:38 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mdlfpayment@0.0.0-86a7a80160a275acb0989afc2eb338cfd37ab30ada927827734980a31be5c810[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.me.dlfpayment.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32minput[39m[33m"[39m[33m: [39m[33m"[39m[35mWorld[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.me.dlfpayment.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mHello Dan World[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m9384bdc2-5c5e-4ce8-8ddb-48fdfcefae65[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2020-11-15T08:45:38.075Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: loadFileBuffer
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: fromDirectory
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: fromDirectory
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: loadFileContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:19 - [34mdebug[39m: loadFilesContents
+14:19:22 - [34mdebug[39m: fromDirectory
+14:19:23 - [34mdebug[39m: loadFileContents
+14:19:23 - [34mdebug[39m: fromDirectory
+14:19:23 - [34mdebug[39m: fromDirectory
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFileContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:23 - [34mdebug[39m: loadFilesContents
+14:19:24 - [34mdebug[39m: Setting clause data: {"$class":"org.me.dlfpayment.MyContract","name":"Dan","contractId":"f94c2778-e65d-4804-93a0-dd1b2308e031"}
+14:19:24 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+14:19:24 - [34mdebug[39m: Engine processing request org.me.dlfpayment.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+15:16:29 - [32minfo[39m: Using current directory as template folder
+15:16:30 - [32minfo[39m: Loading a default text/sample.md file.
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: loadFileBuffer
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: fromDirectory
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: fromDirectory
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: loadFileContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:31 - [34mdebug[39m: loadFilesContents
+15:16:34 - [34mdebug[39m: fromDirectory
+15:16:35 - [34mdebug[39m: loadFileContents
+15:16:35 - [31merror[39m: Unknown property: seller File text/grammar.tem.md line -1 column -1
+15:50:59 - [32minfo[39m: Using current directory as template folder
+15:50:59 - [32minfo[39m: Loading a default text/sample.md file.
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: loadFileBuffer
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: fromDirectory
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: fromDirectory
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: loadFileContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:50:59 - [34mdebug[39m: loadFilesContents
+15:51:03 - [34mdebug[39m: fromDirectory
+15:51:03 - [34mdebug[39m: loadFileContents
+15:51:04 - [34mdebug[39m: fromDirectory
+15:51:04 - [34mdebug[39m: fromDirectory
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFileContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:04 - [34mdebug[39m: loadFilesContents
+15:51:06 - [34mdebug[39m: Setting clause data: {"$class":"io.clause.demo.fragileGoods.FragileGoodsClause","buyer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Steve"},"seller":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Dan"},"deliveryPrice":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":1000,"currencyCode":"USD"},"accelerationMin":-0.5,"accelerationMax":0.5,"accelerationBreachPenalty":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":5,"currencyCode":"USD"},"deliveryLimitDuration":{"$class":"org.accordproject.time.Duration","amount":10,"unit":"seconds"},"lateDeliveryPenalty":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":200,"currencyCode":"USD"},"contractId":"5ea97a6b-5fee-437b-bd59-c5326a19ad23"}
+15:51:06 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mio.clause.demo.fragileGoods.FragileGoodsClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mbuyer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mSteve[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mseller[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDan[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mdeliveryPrice[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m1000[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mUSD[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32maccelerationMin[39m[33m"[39m[33m: [39m[36m-0.5[39m[33m,[39m
+  [33m"[39m[32maccelerationMax[39m[33m"[39m[33m: [39m[36m0.5[39m[33m,[39m
+  [33m"[39m[32maccelerationBreachPenalty[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m5[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mUSD[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mdeliveryLimitDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m10[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mseconds[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlateDeliveryPenalty[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mUSD[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m5ea97a6b-5fee-437b-bd59-c5326a19ad23[39m[33m"[39m
+[33m}[39m
+19:15:20 - [32minfo[39m: Using current directory as template folder
+19:15:20 - [32minfo[39m: Loading a default text/sample.md file.
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: loadFileBuffer
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: fromDirectory
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: fromDirectory
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFilesContents
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:20 - [34mdebug[39m: loadFileContents
+19:15:23 - [34mdebug[39m: fromDirectory
+19:15:23 - [34mdebug[39m: loadFileContents
+19:15:23 - [34mdebug[39m: fromDirectory
+19:15:23 - [34mdebug[39m: fromDirectory
+19:15:23 - [34mdebug[39m: loadFilesContents
+19:15:23 - [34mdebug[39m: loadFilesContents
+19:15:23 - [34mdebug[39m: loadFilesContents
+19:15:23 - [34mdebug[39m: loadFilesContents
+19:15:23 - [34mdebug[39m: loadFilesContents
+19:15:23 - [34mdebug[39m: loadFilesContents
+19:15:23 - [34mdebug[39m: loadFileContents
+19:15:26 - [34mdebug[39m: Setting clause data: {"$class":"io.clause.demo.fragileGoods.FragileGoodsClause","buyer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Steve"},"seller":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Dan"},"deliveryPrice":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":1000,"currencyCode":"USD"},"accelerationMin":-0.5,"accelerationMax":0.5,"accelerationBreachPenalty":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":5,"currencyCode":"USD"},"deliveryLimitDuration":{"$class":"org.accordproject.time.Duration","amount":10,"unit":"seconds"},"lateDeliveryPenalty":{"$class":"org.accordproject.money.MonetaryAmount","doubleValue":200,"currencyCode":"USD"},"contractId":"570e5e58-90dd-4dd9-ad0f-f2062836cda6"}
+19:15:26 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35mio.clause.demo.fragileGoods.FragileGoodsClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mbuyer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mSteve[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mseller[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDan[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mdeliveryPrice[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m1000[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mUSD[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32maccelerationMin[39m[33m"[39m[33m: [39m[36m-0.5[39m[33m,[39m
+  [33m"[39m[32maccelerationMax[39m[33m"[39m[33m: [39m[36m0.5[39m[33m,[39m
+  [33m"[39m[32maccelerationBreachPenalty[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m5[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mUSD[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mdeliveryLimitDuration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Duration[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m10[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mseconds[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mlateDeliveryPenalty[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+    [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mUSD[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m570e5e58-90dd-4dd9-ad0f-f2062836cda6[39m[33m"[39m
+[33m}[39m

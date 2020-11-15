@@ -1,0 +1,4 @@
+{
+    "$class": "org.me.dlfpayment.MyRequest",
+    "input": "World"
+}
